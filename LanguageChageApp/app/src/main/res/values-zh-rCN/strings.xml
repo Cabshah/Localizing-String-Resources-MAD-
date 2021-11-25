@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguageChageApp</string>
+    <string name="hello_world">Ni hao,shijie</string>
+    <string name="push">Tui</string>
+    <string name="this_is_a_toast">Zhe shi zhujiu ci</string>
+</resources>
